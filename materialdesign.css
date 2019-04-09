@@ -5,8 +5,9 @@
  */
 
 .google-visualization-table-tr-head {
-  background-color: none !important;
+  background-color: #fff !important;
 }
+
 
 td, th {
   text-align: left !important;
