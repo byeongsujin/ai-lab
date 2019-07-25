@@ -1,0 +1,6 @@
+[
+    {id:1, type:"Brie", rind:"mould", age:"4 weeks", color:"white"},
+    {id:2, type:"Cheddar", rind:"none", age:"1 year", color:"yellow"},
+    {id:3, type:"Gouda", rind:"wax", age:"6 months", color:"cream"},
+    {id:4, type:"Swiss", rind:"none", age:"9 months", color:"yellow"},
+    ]
